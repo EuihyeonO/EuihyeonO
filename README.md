@@ -7,4 +7,4 @@
 
 > ### My Blog
 >
-> [Link Here](https://lsh424.tistory.com/)
+> [Link Here](https://yuu5666.tistory.com/)
