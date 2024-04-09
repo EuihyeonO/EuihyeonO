@@ -1,3 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=_50BCDF&height=200&section=header&text=Welcome&nbsp;My&nbsp;GitHub!&fontSize=60" />
+## *"Luck is what you have left over after you give 100 percent" - Langston Coleman*
 
-# Hi
+> ### Technical Stack
+
+![Static Badge](https://img.shields.io/badge/C-FF4C4C) ![Static Badge](https://img.shields.io/badge/C++-FF4C4C)  ![Static Badge](https://img.shields.io/badge/HLSL-000000) 
+![Static Badge](https://img.shields.io/badge/Unreal%20Engine-808080)
+
+> ### My Blog
+>
+> [Link Here](https://lsh424.tistory.com/)
