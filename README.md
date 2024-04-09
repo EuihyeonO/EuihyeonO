@@ -1,1 +1,2 @@
-###게임 개발자를 꿈꾸는 오의현입니다.
+
+<img src="https://capsule-render.vercel.app/api?type=Technical Stack&color=(1.0f, 0.0f, 0.0f)&height=20&section=header&text=Hi&fontSize=15" />
