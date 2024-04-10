@@ -5,8 +5,8 @@ Dev's Log : [![Static Badge](https://img.shields.io/badge/Blog-000000.svg?&logo=
 
 > ### Technical Stack
 
-![Static Badge](https://img.shields.io/badge/C-FF4C4C) ![Static Badge](https://img.shields.io/badge/C++-FF4C4C)  ![Static Badge](https://img.shields.io/badge/HLSL-8B00FF) 
-![Static Badge](https://img.shields.io/badge/DirectX-FF7F00) ![Static Badge](https://img.shields.io/badge/Unreal%20Engine-808080)
+![Static Badge](https://img.shields.io/badge/C-005697) ![Static Badge](https://img.shields.io/badge/C++-005697)  ![Static Badge](https://img.shields.io/badge/HLSL-D56820) 
+![Static Badge](https://img.shields.io/badge/DirectX-6) ![Static Badge](https://img.shields.io/badge/Unreal%20Engine-808080)
 
 > ### Profile Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuihyeonO&show_icons=true&theme=radical) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuu5666)](https://solved.ac/yuu5666/) | 
