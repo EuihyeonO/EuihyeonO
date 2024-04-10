@@ -1,7 +1,7 @@
 ## My Infomation
 Contact : ![Static Badge](https://img.shields.io/badge/Mail%20:%20yuu5666@naver.com-000000.svg?&logo=Naver&logoColor=#03C75A) 
 <br/> 
-Dev's Log : [![Static Badge](https://img.shields.io/badge/Blog-000000.svg?&logo=Tistory&logoColor=FFd400)](https://yuu5666.tistory.com/) 
+Dev's Log : [![Static Badge](https://img.shields.io/badge/Blog-000000.svg?&logo=Tistory&logoColor=FFd400)](https://yuu5666.tistory.com/) [![Static Badge](https://img.shields.io/badge/Youtube-000000.svg?&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/@user-tu3rm3ze4w) 
 
 > ### Technical Stack
 
